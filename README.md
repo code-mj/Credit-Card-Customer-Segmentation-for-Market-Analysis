@@ -1,4 +1,4 @@
-# Credit-Card-Customer-Segmentation-for-Market-Analysis
+# Credit-Card-Customer-Segmentation-for-Market-Analysis using R
 
 - Objective: To segment customers based on their credit card usage patterns and identify key behavioral features to enhance marketing strategies and customer engagement.
 
